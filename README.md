@@ -125,3 +125,4 @@ pip install pandas sqlalchemy psycopg2-binary
 4. Run SQL queries for analysis
 5. Open Power BI and connect to the PostgreSQL database
 6. Refresh the dashboard to view insights
+   
